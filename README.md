@@ -19,7 +19,7 @@ A simple password generator script that allows you to generate secure, random pa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/Z3R0R0Z3/password.git
    cd password-generator
    ```
 
